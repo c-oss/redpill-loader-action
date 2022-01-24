@@ -3,11 +3,16 @@
     "vid": "0x46f4",
     "pid": "0x0001",
     "sn": "1130LWN123456",
-    "mac1": "001132123456"
+    "netif_num":"3",
+    "mac1": "001132123456",
+    "mac2": "001132123457",
+    "mac2": "001132123458"
   },
   "synoinfo": {
+    "maxdisks": "16",
     "supportsystemperature": "no",
     "supportsystempwarning": "no"
   },
-  "ramdisk_copy": {}
+  "ramdisk_copy": {},
+  "extensions": {}
 }
